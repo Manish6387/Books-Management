@@ -45,4 +45,4 @@ in place of isadmin please choose **1** if you want the user to be admin and **0
 # Reach me
 If you face any issue when running or if there are any suggestions please comment or reach me out at my socials <br />
 <br />
-                **Twitter/Linkedin/Instagram/ @iybshashank**
+                **www.linkedin.com/in/manishcd99**
