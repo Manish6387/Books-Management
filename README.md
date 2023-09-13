@@ -22,7 +22,7 @@ in place of isadmin please choose **1** if you want the user to be admin and **0
                 --for admin user
                 INSERT INTO lUsers VALUES('admin','admin',1)
                 -- for non admin user
-                INSERT INTO lUsers VALUES('shashank','shashank',0)
+                INSERT INTO lUsers VALUES('manish','manish',0)
 ```
 - Connect the dataBase and get the connection string to make the project communicate with your database.
 - Open **bool-manager-application/bookManager.sln**.
